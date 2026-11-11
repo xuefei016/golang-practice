@@ -1,4 +1,4 @@
-# golang-homework
+# golang-practice
 
 Course work in Go, organized as several independent modules. It covers basic algorithms, concurrency, a GORM blog data layer, a Gin + JWT blog HTTP API, and go-ethereum interaction with the Sepolia test network.
 
